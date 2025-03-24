@@ -10,6 +10,7 @@
 - [Terminology 📖](#terminology-)
 - [Project Evaluation Repositories 🔍](#project-evaluation-repositories-)
 - [Rigorous Evidence Repositories 📊](#rigorous-evidence-repositories-)
+- [AI Apps 🤖](#ai-apps-)
 - [Contributing 🤝](#contributing-)
 - [License 📄](#license-)
 
@@ -48,6 +49,16 @@
 |-------------|------|-------------------|-----|----------|------------|
 | 3ie | Development Evidence Portal | [✓](https://developmentevidence.3ieimpact.org/) | – | – | – |
 | OpenAlex | Open catalog to the global research system | [✓](https://openalex.org/) | [✓](https://docs.openalex.org/) | [✓](https://github.com/Mearman/openalex-api-spec) | – |
+
+## AI Apps 🤖
+
+| Organization | App | Description | Availability | Open Source |
+|-------------|------|-------------------|-----|----------|
+| World Bank DIME | [ImpactAI](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation/ai/impact-ai) | Quantitative evidence synthesis tool | waitlist | planned |
+| FCDO FTH | [Dev Explorer](https://app.devexplorer.ai) | IATI project search and anlysis | testing | planned |
+| UNDP IEO | [AIDA](https://aida.undp.org/) | UNDP project search and analysis | public, v2 in development | |
+| BMZ Data Lab | KIEZ | General AI assistant with focus on development | internal | planned |
+
 
 ## Contributing 🤝
 
