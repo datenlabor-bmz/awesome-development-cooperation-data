@@ -1,0 +1,23 @@
+[project]
+name = "mcp-server-iati"
+version = "0.1.0"
+description = "Give your chatbot access to data about international aid"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+ "joblib>=1.4.2",
+ "mcp>=1.1.2",
+ "python-dotenv>=1.0.1",
+ "requests>=2.32.3",
+ "tqdm>=4.67.1",
+]
+[[project.authors]]
+name = "David Pomerenke"
+email = "46022183+davidpomerenke@users.noreply.github.com"
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+mcp-server-iati = "mcp_server_iati:main"
