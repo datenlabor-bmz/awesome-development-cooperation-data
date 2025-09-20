@@ -34,7 +34,7 @@
 | AfDB | Data Portal | [✓](https://projectsportal.afdb.org/dataportal/VProject/list) | – | – | – |
 | ADB | Completed Evaluations | [✓](https://www.adb.org/who-we-are/evaluation/completed-evaluations) | – | – | – |
 | IDB | Projects | [✓](https://www.iadb.org/en/project-search) | – | – | – |
-| AidGrade | Evaluation Collection | [✓] (https://www.aidgrade.org/get-data) | - | - | - | 
+| AidGrade | Evaluation Collection | [✓](https://www.aidgrade.org/get-data) | - | - | - | 
 | **United Kingdom** |
 | FCDO | DevTracker | [✓](https://devtracker.fcdo.gov.uk/) | [✓](https://devtracker.fcdo.gov.uk/solr-response) | – | – |
 | **Netherlands** |
